@@ -88,7 +88,7 @@
         </tbody>
       <tfoot>
         <tr coldsplan="2"> 
-          Última atualização em 29/02/2024
+          <td>Última atualização em 29/02/2024</td>
         </tr>
       </tfoot>
     </table>
