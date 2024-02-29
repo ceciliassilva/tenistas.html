@@ -41,7 +41,7 @@
             <td>Rajeev Ram	</td>
             <td>39</td>
             <td>EUA</td>
-            <6450>
+            <td>6480</td>
           </tr>
           <tr>
             <th>5</th>
