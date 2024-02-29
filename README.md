@@ -9,12 +9,16 @@
         <tr>
           <th>Posição</th>
           <th>Tenista</th>
+          <th>Idade</th>
+          <th>Pontuação</th>
         </tr>  
       </thead>
         <tbody>
           <tr>
             <th>1</th>
             <td>Matthew Ebden	</td>
+            <td>36</td>
+            <td>África do Sul</td>
           </tr>
           <tr> 
           <th>2</th>
@@ -54,7 +58,9 @@
           </tr>
         </tbody>
       <tfoot>
-        <tr coldsplan="2"> Última atualização em 29/02/2024</tr>
+        <tr coldsplan="2"> 
+          Última atualização em 29/02/2024
+        </tr>
       </tfoot>
     </table>
     </body>
