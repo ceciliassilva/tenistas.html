@@ -19,8 +19,8 @@
             <th>1</th>
             <td>Matthew Ebden	</td>
             <td>36</td>
-            <td>8080</td>
             <td>África do Sul</td>
+            <td>8080</td>
           </tr>
           <tr> 
           <th>2</th>
