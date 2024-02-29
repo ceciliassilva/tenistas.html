@@ -53,5 +53,8 @@
             <td>Horacio Zeballos	</td>
           </tr>
         </tbody>
+      <tfoot>
+        <tr coldsplan="2"> Última atualização em 29/02/2024</tr>
+      </tfoot>
     </body>
 </html>
